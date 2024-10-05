@@ -1,7 +1,7 @@
 *{
-    margin: none;
+    margin: 0;
     text-decoration: none;
-    padding: none;
+    padding: 0;
     list-style: none;
 }
 .main{
@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: solid thick solid black;
+    background-color: #F3AC3C;
 }
 .head{
     width: 200px;
